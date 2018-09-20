@@ -1,1 +1,1 @@
-curl http://www.uniprot.org/taxonomy/?sort=\&desc=\&compress=no\&query=\&fil=\&format=tab\&columns=id > taxonomy-all.tab
+curl https://www.uniprot.org/taxonomy/?sort=\&desc=\&compress=no\&query=\&fil=\&format=tab\&columns=id > taxonomy-all.tab
